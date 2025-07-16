@@ -1,1 +1,3 @@
 # Superstore-Sales
+Overview : This case study involves performing an Exploratory Data Analysis (EDA) on the Superstore Sales dataset, which is widely used for educational purposes. The dataset provides a diverse set of features, including categorical, numerical, and date-time data, making it ideal for practicing data cleaning, feature engineering, and visualization techniques.
+The goal of this case study is to apply systematic EDA techniques to uncover insights, identify trends, and prepare the data for further analysis or modeling. The dataset has been modified to introduce various inconsistencies, missing values, and data quality issues, offering an opportunity to apply advanced data cleaning and transformation skills.
